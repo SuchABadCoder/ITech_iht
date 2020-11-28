@@ -38,7 +38,7 @@ area.addEventListener('click', (event) => {
            }
         }
         move++;
-        if (volume++ == 9)
+        if (volume++ == 9 && !victory)
             document.getElementById('text').innerHTML = "Ничья!";
     } 
 })
