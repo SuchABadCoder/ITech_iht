@@ -71,16 +71,16 @@ p{
         display: none;
     }
     #area{
-        width: 210px;
-        height: 210px;
+        width: 180px;
+        height: 180px;
     }
     #text{
         font-size: 30px;
         margin-top: 20%;
     }
     .cell{
-        width: 70px;
-        height: 70px;
+        width: 60px;
+        height: 60px;
     }
 }
 
